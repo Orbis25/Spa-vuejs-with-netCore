@@ -1,4 +1,6 @@
-# final
+# Spa Vuejs and .NetCore
+
+this project is a sales and warehouse system
 
 > A Vue.js project
 
